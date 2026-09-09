@@ -1,0 +1,1 @@
+write-output("This is day4 learning Git")
